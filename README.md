@@ -1,6 +1,6 @@
 ---
 
-## `𝙏𝙤𝙭𝙞𝙘 𝙈𝘿 𝙒𝙝𝙖𝙩𝙨𝘼𝙥𝙥 𝘽𝙤𝙩`
+## `MENDO_BOT`
 
 <p align="center">
   <b>A powerful, simple & user-friendly WhatsApp Multi-Device WA Bot</b><br>
@@ -15,7 +15,7 @@
 
 ## ✅ About Toxic-MD
 
-**Toxic-MD** is a modern WhatsApp bot built using **Baileys Multi-Device**.  
+**Trehza mendoza** is a modern WhatsApp bot built using **Baileys Multi-Device**.  
 It helps you manage groups, automate tasks, protect chats, and enjoy fun commands — all in one bot.
 
 ### 🔹 Key Highlights
@@ -47,10 +47,10 @@ It helps you manage groups, automate tasks, protect chats, and enjoy fun command
 ## 🌍 Community & Support
 
 ### 🔹 Join Official WhatsApp Group  
-[![TAP HERE TO JOIN GROUP](https://img.shields.io/badge/TAP%20HERE%20TO-JOIN%20WHATSAPP%20GROUP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/GoXKLVJgTAAC3556FXkfFI)
+[![TAP HERE 
 
 ### 🔹 Contact the Developer  
-[![TAP HERE TO CONTACT DEV](https://img.shields.io/badge/TAP%20HERE%20TO-CONTACT%20DEVELOPER-brightgreen?style=for-the-badge&logo=whatsapp)](https://api.whatsapp.com/send?phone=254735342808)
+[![TAP HERE TO CONTACT DEV](https://img.shields.io/badge/TAP%20HERE%20TO-CONTACT%20DEVELOPER-brightgreen?style=for-the-badge&logo=whatsapp)](https://api.whatsapp.com/send?phone=22602117103)
 
 ---
 
